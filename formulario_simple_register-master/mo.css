@@ -1,0 +1,12 @@
+.gas {
+    width: -webkit-fill-available;
+}
+
+.gasu {
+    width: -webkit-fill-available;
+    height: -webkit-fit-content;
+}
+
+.tit {width: 970px;margin-left: 160px;0;}
+.t {display: -webkit-inline-box;margin-left: 160px;}
+#name {background-color: antiquewhite;}
